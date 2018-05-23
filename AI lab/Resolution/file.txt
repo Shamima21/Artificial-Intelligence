@@ -1,0 +1,5 @@
+ file.txt has those lines
+P
+(p^Q)->R
+(S^T)->Q
+
